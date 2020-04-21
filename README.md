@@ -60,9 +60,9 @@ location:
   
   ## Introduction
 
-	With the onset of the COVID-19 pandemic, the production of face masks has increased manyfold. The increase in production has also increased the need for testing facilities to test masks. Masks must be tested to ensure they meet their given specification to protect healthcare workers. 
+  With the onset of the COVID-19 pandemic, the production of face masks has increased manyfold. The increase in production has also increased the need for testing facilities to test masks. Masks must be tested to ensure they meet their given specification to protect healthcare workers. 
 
-	ProjectMask of the Delft University of Technology was established to develop testing equipment to be able to perform testing on face masks. ProjectMask aims to make the information publicly available to increase the capacity of testing equipment. 
+  ProjectMask of the Delft University of Technology was established to develop testing equipment to be able to perform testing on face masks. ProjectMask aims to make the information publicly available to increase the capacity of testing equipment. 
     
   ### Reference: 
   
